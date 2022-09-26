@@ -23,6 +23,14 @@ Explanation: There are 4 substrings: "10", "01", "10", "01" that have equal numb
 
 
 
+
+
+
+
+
+
+
+
 Problem #2
 
 You are given a string s consisting of lowercase English letters, and an integer k.
